@@ -21,6 +21,8 @@ void* worker(void* arg)
     return 0;
 }
 
+
+
 int main(int argc, char** argv)
 {
     pthread_t threads[NUM_THREADS];

@@ -38,6 +38,7 @@
     "cstdint": "cpp",
     "iostream": "cpp",
     "ostream": "cpp",
-    "ratio": "cpp"
+    "ratio": "cpp",
+    "cstdlib": "cpp"
   }
 }
