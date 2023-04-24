@@ -1,0 +1,537 @@
+************************************************************************** Round 1 has started ************************************************************************** 
+
+RNG HAS BEEN SET TO CURRENT TIME
+
+Deck contents: 
+3 of Clubs 9 of Spades 8 of Hearts 8 of Clubs 10 of Spades King of Clubs Jack of Diamonds 4 of Clubs 7 of Clubs 9 of Diamonds 2 of Spades 1 of Spades 5 of Spades 
+9 of Clubs 7 of Hearts 3 of Spades 6 of Hearts 4 of Hearts King of Spades Queen of Diamonds Queen of Clubs 2 of Clubs 8 of Diamonds 5 of Clubs 6 of Clubs 4 of Spades 
+Queen of Spades 7 of Spades 6 of Spades 5 of Diamonds 1 of Hearts 10 of Hearts 3 of Diamonds 2 of Diamonds Queen of Hearts Jack of Clubs 1 of Diamonds 1 of Clubs 3 of Hearts 
+10 of Clubs 2 of Hearts 6 of Diamonds 4 of Diamonds 9 of Hearts King of Diamonds 8 of Spades 5 of Hearts 7 of Diamonds King of Hearts 10 of Diamonds Jack of Spades 
+
+PLAYER 1 is the dealer. Target Card: 3 of Clubs
+
+PLAYER 2 has Card: 9 of Spades
+
+PLAYER 3 has Card: 8 of Hearts
+
+PLAYER 4 has Card: 8 of Clubs
+
+PLAYER 5 has Card: 10 of Spades
+
+PLAYER 6 has Card: King of Clubs
+
+PLAYER 2 draws Card: Jack of Diamonds
+
+PLAYER 2 discards Card: Jack of Diamonds
+
+PLAYER 3 draws Card: 4 of Clubs
+
+PLAYER 3 discards Card: 8 of Hearts
+
+PLAYER 4 draws Card: 7 of Clubs
+
+PLAYER 4 discards Card: 8 of Clubs
+
+PLAYER 5 draws Card: 9 of Diamonds
+
+PLAYER 5 discards Card: 10 of Spades
+
+PLAYER 6 draws Card: 2 of Spades
+
+PLAYER 6 discards Card: King of Clubs
+
+PLAYER 2 draws Card: 1 of Spades
+
+PLAYER 2 discards Card: 9 of Spades
+
+PLAYER 3 draws Card: 5 of Spades
+
+PLAYER 3 discards Card: 5 of Spades
+
+PLAYER 4 draws Card: 9 of Clubs
+
+PLAYER 4 discards Card: 9 of Clubs
+
+PLAYER 5 draws Card: 7 of Hearts
+
+PLAYER 5 discards Card: 9 of Diamonds
+
+PLAYER 6 draws Card: 3 of Spades
+
+PLAYER 6 has Card: 2 of Spades and Card: 3 of Spades
+Target Card: 3 of Clubs
+
+PLAYER 6 has won!
+
+PLAYER 6 has returned Card: 2 of Spades and Card: 3 of Spades
+
+PLAYER 1: round end
+
+PLAYER 2 has lost
+
+PLAYER 2 has returned Card: 1 of Spades
+
+PLAYER 3 has lost
+
+PLAYER 3 has returned Card: 4 of Clubs
+
+PLAYER 4 has lost
+
+PLAYER 4 has returned Card: 7 of Clubs
+
+PLAYER 5 has lost
+
+PLAYER 5 has returned Card: 7 of Hearts
+
+************************************************************************** Round 2 has started ************************************************************************** 
+
+RNG HAS BEEN SET TO CURRENT TIME
+
+Deck contents: 
+8 of Clubs 4 of Spades 2 of Spades 6 of Spades 6 of Hearts 6 of Clubs King of Diamonds 1 of Diamonds King of Clubs 10 of Spades Jack of Spades 5 of Hearts 10 of Hearts 
+Jack of Clubs Queen of Hearts 8 of Hearts 4 of Clubs 8 of Spades 6 of Diamonds 7 of Spades 3 of Spades Jack of Diamonds 5 of Diamonds 5 of Clubs 10 of Diamonds 2 of Clubs 
+7 of Hearts 9 of Diamonds 9 of Spades 1 of Hearts 5 of Spades 2 of Diamonds 9 of Hearts Queen of Diamonds 3 of Clubs 7 of Clubs King of Hearts Queen of Spades 1 of Clubs 
+8 of Diamonds 4 of Hearts 2 of Hearts 3 of Diamonds King of Spades 1 of Spades 3 of Hearts 10 of Clubs Queen of Clubs 4 of Diamonds 9 of Clubs 7 of Diamonds 
+
+PLAYER 2 is the dealer. Target Card: 8 of Clubs
+
+PLAYER 1 has Card: 4 of Spades
+
+PLAYER 3 has Card: 2 of Spades
+
+PLAYER 4 has Card: 6 of Spades
+
+PLAYER 5 has Card: 6 of Hearts
+
+PLAYER 6 has Card: 6 of Clubs
+
+PLAYER 3 draws Card: King of Diamonds
+
+PLAYER 3 discards Card: King of Diamonds
+
+PLAYER 4 draws Card: 1 of Diamonds
+
+PLAYER 4 discards Card: 1 of Diamonds
+
+PLAYER 5 draws Card: King of Clubs
+
+PLAYER 5 discards Card: King of Clubs
+
+PLAYER 6 draws Card: 10 of Spades
+
+PLAYER 6 discards Card: 10 of Spades
+
+PLAYER 1 draws Card: Jack of Spades
+
+PLAYER 1 discards Card: 4 of Spades
+
+PLAYER 3 draws Card: 5 of Hearts
+
+PLAYER 3 discards Card: 5 of Hearts
+
+PLAYER 4 draws Card: 10 of Hearts
+
+PLAYER 4 discards Card: 6 of Spades
+
+PLAYER 5 draws Card: Jack of Clubs
+
+PLAYER 5 discards Card: 6 of Hearts
+
+PLAYER 6 draws Card: Queen of Hearts
+
+PLAYER 6 discards Card: Queen of Hearts
+
+PLAYER 1 draws Card: 8 of Hearts
+
+PLAYER 1 has Card: Jack of Spades and Card: 8 of Hearts
+Target Card: 8 of Clubs
+
+PLAYER 1 has won!
+
+PLAYER 1 has returned Card: Jack of Spades and Card: 8 of Hearts
+
+PLAYER 2: round end
+
+PLAYER 3 has lost
+
+PLAYER 3 has returned Card: 2 of Spades
+
+PLAYER 4 has lost
+
+PLAYER 4 has returned Card: 10 of Hearts
+
+PLAYER 5 has lost
+
+PLAYER 5 has returned Card: Jack of Clubs
+
+PLAYER 6 has lost
+
+PLAYER 6 has returned Card: 6 of Clubs
+
+************************************************************************** Round 3 has started ************************************************************************** 
+
+RNG HAS BEEN SET TO CURRENT TIME
+
+Deck contents: 
+5 of Clubs 6 of Diamonds 5 of Spades Jack of Diamonds 10 of Clubs 7 of Diamonds 3 of Diamonds King of Clubs 7 of Spades 5 of Diamonds 6 of Clubs 3 of Spades 2 of Clubs 
+9 of Diamonds 8 of Hearts 4 of Clubs 10 of Diamonds 7 of Hearts Jack of Clubs King of Hearts 9 of Clubs King of Spades 2 of Hearts King of Diamonds 6 of Spades 1 of Clubs 
+1 of Spades 8 of Spades 8 of Diamonds Jack of Hearts Queen of Spades 10 of Spades 1 of Diamonds 10 of Hearts 8 of Clubs Queen of Diamonds 4 of Spades 2 of Spades Queen of Clubs 
+4 of Diamonds 3 of Clubs 6 of Hearts 9 of Hearts 5 of Hearts 4 of Hearts 9 of Spades 3 of Hearts 7 of Clubs Queen of Hearts Jack of Spades 1 of Hearts 
+
+PLAYER 3 is the dealer. Target Card: 5 of Clubs
+
+PLAYER 1 has Card: 6 of Diamonds
+
+PLAYER 2 has Card: 5 of Spades
+
+PLAYER 4 has Card: Jack of Diamonds
+
+PLAYER 5 has Card: 10 of Clubs
+
+PLAYER 6 has Card: 7 of Diamonds
+
+PLAYER 4 draws Card: 3 of Diamonds
+
+PLAYER 4 discards Card: Jack of Diamonds
+
+PLAYER 5 draws Card: King of Clubs
+
+PLAYER 5 discards Card: 10 of Clubs
+
+PLAYER 6 draws Card: 7 of Spades
+
+PLAYER 6 discards Card: 7 of Spades
+
+PLAYER 1 draws Card: 5 of Diamonds
+
+PLAYER 1 has Card: 6 of Diamonds and Card: 5 of Diamonds
+Target Card: 5 of Clubs
+
+PLAYER 1 has won!
+
+PLAYER 1 has returned Card: 6 of Diamonds and Card: 5 of Diamonds
+
+PLAYER 3: round end
+
+PLAYER 2 has Card: 5 of Spades
+Target Card: 5 of Clubs
+
+PLAYER 2 has won!
+
+PLAYER 2 has returned Card: 5 of Spades
+
+PLAYER 4 has lost
+
+PLAYER 4 has returned Card: 3 of Diamonds
+
+PLAYER 5 has lost
+
+PLAYER 5 has returned Card: King of Clubs
+
+PLAYER 6 has lost
+
+PLAYER 6 has returned Card: 7 of Diamonds
+
+************************************************************************** Round 4 has started ************************************************************************** 
+
+RNG HAS BEEN SET TO CURRENT TIME
+
+Deck contents: 
+5 of Clubs 1 of Spades Jack of Clubs 3 of Hearts King of Diamonds 2 of Diamonds 4 of Spades 6 of Hearts 6 of Diamonds 6 of Spades 4 of Diamonds 5 of Spades 1 of Clubs 
+Queen of Spades Queen of Clubs Jack of Diamonds Jack of Hearts 8 of Spades 7 of Hearts 7 of Spades 8 of Diamonds 3 of Diamonds 8 of Clubs 2 of Hearts 9 of Clubs 9 of Diamonds 
+3 of Clubs 9 of Hearts 9 of Spades 2 of Spades 1 of Diamonds 7 of Diamonds 2 of Clubs Jack of Spades 3 of Spades 7 of Clubs 5 of Hearts 10 of Diamonds 10 of Clubs 
+10 of Hearts 10 of Spades King of Clubs 8 of Hearts Queen of Diamonds 6 of Clubs Queen of Hearts 4 of Clubs 4 of Hearts 5 of Diamonds King of Hearts King of Spades 
+
+PLAYER 4 is the dealer. Target Card: 5 of Clubs
+
+PLAYER 1 has Card: 1 of Spades
+
+PLAYER 2 has Card: Jack of Clubs
+
+PLAYER 3 has Card: 3 of Hearts
+
+PLAYER 5 has Card: King of Diamonds
+
+PLAYER 6 has Card: 2 of Diamonds
+
+PLAYER 5 draws Card: 4 of Spades
+
+PLAYER 5 discards Card: 4 of Spades
+
+PLAYER 6 draws Card: 6 of Hearts
+
+PLAYER 6 discards Card: 2 of Diamonds
+
+PLAYER 1 draws Card: 6 of Diamonds
+
+PLAYER 1 discards Card: 1 of Spades
+
+PLAYER 2 draws Card: 6 of Spades
+
+PLAYER 2 discards Card: Jack of Clubs
+
+PLAYER 3 draws Card: 4 of Diamonds
+
+PLAYER 3 discards Card: 3 of Hearts
+
+PLAYER 5 draws Card: 5 of Spades
+
+PLAYER 5 has Card: King of Diamonds and Card: 5 of Spades
+Target Card: 5 of Clubs
+
+PLAYER 5 has won!
+
+PLAYER 5 has returned Card: King of Diamonds and Card: 5 of Spades
+
+PLAYER 4: round end
+
+PLAYER 6 has lost
+
+PLAYER 6 has returned Card: 6 of Hearts
+
+PLAYER 1 has lost
+
+PLAYER 1 has returned Card: 6 of Diamonds
+
+PLAYER 2 has lost
+
+PLAYER 2 has returned Card: 6 of Spades
+
+PLAYER 3 has lost
+
+PLAYER 3 has returned Card: 4 of Diamonds
+
+************************************************************************** Round 5 has started ************************************************************************** 
+
+RNG HAS BEEN SET TO CURRENT TIME
+
+Deck contents: 
+10 of Clubs 2 of Diamonds King of Clubs 1 of Clubs Jack of Diamonds 8 of Spades 3 of Clubs 4 of Spades 5 of Spades 9 of Spades Queen of Hearts King of Diamonds 7 of Hearts 
+3 of Hearts 3 of Spades Queen of Diamonds 6 of Diamonds 7 of Clubs 9 of Diamonds 5 of Clubs 6 of Clubs Queen of Clubs 3 of Diamonds 5 of Hearts 9 of Hearts 7 of Spades 
+7 of Diamonds 2 of Hearts 1 of Diamonds Jack of Spades 2 of Clubs Jack of Hearts 6 of Hearts 5 of Diamonds 8 of Clubs 2 of Spades King of Hearts 10 of Diamonds 4 of Diamonds 
+8 of Hearts 10 of Hearts 4 of Clubs 6 of Spades Jack of Clubs King of Spades 9 of Clubs 10 of Spades Queen of Spades 1 of Spades 1 of Hearts 4 of Hearts 
+
+PLAYER 5 is the dealer. Target Card: 10 of Clubs
+
+PLAYER 1 has Card: 2 of Diamonds
+
+PLAYER 2 has Card: King of Clubs
+
+PLAYER 3 has Card: 1 of Clubs
+
+PLAYER 4 has Card: Jack of Diamonds
+
+PLAYER 6 has Card: 8 of Spades
+
+PLAYER 6 draws Card: 3 of Clubs
+
+PLAYER 6 discards Card: 8 of Spades
+
+PLAYER 1 draws Card: 4 of Spades
+
+PLAYER 1 discards Card: 2 of Diamonds
+
+PLAYER 2 draws Card: 5 of Spades
+
+PLAYER 2 discards Card: King of Clubs
+
+PLAYER 3 draws Card: 9 of Spades
+
+PLAYER 3 discards Card: 1 of Clubs
+
+PLAYER 4 draws Card: Queen of Hearts
+
+PLAYER 4 discards Card: Jack of Diamonds
+
+PLAYER 6 draws Card: King of Diamonds
+
+PLAYER 6 discards Card: 3 of Clubs
+
+PLAYER 1 draws Card: 7 of Hearts
+
+PLAYER 1 discards Card: 4 of Spades
+
+PLAYER 2 draws Card: 3 of Hearts
+
+PLAYER 2 discards Card: 3 of Hearts
+
+PLAYER 3 draws Card: 3 of Spades
+
+PLAYER 3 discards Card: 3 of Spades
+
+PLAYER 4 draws Card: Queen of Diamonds
+
+PLAYER 4 discards Card: Queen of Hearts
+
+PLAYER 6 draws Card: 6 of Diamonds
+
+PLAYER 6 discards Card: King of Diamonds
+
+PLAYER 1 draws Card: 7 of Clubs
+
+PLAYER 1 discards Card: 7 of Clubs
+
+PLAYER 2 draws Card: 9 of Diamonds
+
+PLAYER 2 discards Card: 9 of Diamonds
+
+PLAYER 3 draws Card: 5 of Clubs
+
+PLAYER 3 discards Card: 5 of Clubs
+
+PLAYER 4 draws Card: 6 of Clubs
+
+PLAYER 4 discards Card: Queen of Diamonds
+
+PLAYER 6 draws Card: Queen of Clubs
+
+PLAYER 6 discards Card: Queen of Clubs
+
+PLAYER 1 draws Card: 3 of Diamonds
+
+PLAYER 1 discards Card: 7 of Hearts
+
+PLAYER 2 draws Card: 5 of Hearts
+
+PLAYER 2 discards Card: 5 of Hearts
+
+PLAYER 3 draws Card: 9 of Hearts
+
+PLAYER 3 discards Card: 9 of Hearts
+
+PLAYER 4 draws Card: 7 of Spades
+
+PLAYER 4 discards Card: 6 of Clubs
+
+PLAYER 6 draws Card: 7 of Diamonds
+
+PLAYER 6 discards Card: 6 of Diamonds
+
+PLAYER 1 draws Card: 2 of Hearts
+
+PLAYER 1 discards Card: 2 of Hearts
+
+PLAYER 2 draws Card: 1 of Diamonds
+
+PLAYER 2 discards Card: 5 of Spades
+
+PLAYER 3 draws Card: Jack of Spades
+
+PLAYER 3 discards Card: Jack of Spades
+
+PLAYER 4 draws Card: 2 of Clubs
+
+PLAYER 4 discards Card: 7 of Spades
+
+PLAYER 6 draws Card: Jack of Hearts
+
+PLAYER 6 discards Card: 7 of Diamonds
+
+PLAYER 1 draws Card: 6 of Hearts
+
+PLAYER 1 discards Card: 6 of Hearts
+
+PLAYER 2 draws Card: 5 of Diamonds
+
+PLAYER 2 discards Card: 5 of Diamonds
+
+PLAYER 3 draws Card: 8 of Clubs
+
+PLAYER 3 discards Card: 9 of Spades
+
+PLAYER 4 draws Card: 2 of Spades
+
+PLAYER 4 discards Card: 2 of Clubs
+
+PLAYER 6 draws Card: King of Hearts
+
+PLAYER 6 discards Card: King of Hearts
+
+PLAYER 1 draws Card: 10 of Diamonds
+
+PLAYER 1 has Card: 3 of Diamonds and Card: 10 of Diamonds
+Target Card: 10 of Clubs
+
+PLAYER 1 has won!
+
+PLAYER 1 has returned Card: 3 of Diamonds and Card: 10 of Diamonds
+
+PLAYER 5: round end
+
+PLAYER 2 has lost
+
+PLAYER 2 has returned Card: 1 of Diamonds
+
+PLAYER 3 has lost
+
+PLAYER 3 has returned Card: 8 of Clubs
+
+PLAYER 4 has lost
+
+PLAYER 4 has returned Card: 2 of Spades
+
+PLAYER 6 has lost
+
+PLAYER 6 has returned Card: Jack of Hearts
+
+************************************************************************** Round 6 has started ************************************************************************** 
+
+RNG HAS BEEN SET TO CURRENT TIME
+
+Deck contents: 
+4 of Spades 10 of Hearts Queen of Diamonds Queen of Hearts 7 of Diamonds 1 of Hearts 3 of Diamonds 10 of Diamonds Jack of Clubs 4 of Hearts 6 of Spades 7 of Spades 4 of Clubs 
+10 of Clubs 5 of Clubs 8 of Diamonds Jack of Hearts Jack of Diamonds King of Diamonds Queen of Clubs 5 of Spades 8 of Hearts 8 of Spades 9 of Diamonds 2 of Clubs 4 of Diamonds 
+10 of Spades King of Clubs King of Spades Queen of Spades 7 of Clubs 5 of Hearts 2 of Spades 9 of Spades 2 of Diamonds 3 of Clubs 3 of Hearts 8 of Clubs 7 of Hearts 
+1 of Spades 5 of Diamonds 2 of Hearts 6 of Hearts 9 of Clubs King of Hearts 3 of Spades 9 of Hearts 6 of Clubs 1 of Diamonds 1 of Clubs Jack of Spades 
+
+PLAYER 6 is the dealer. Target Card: 4 of Spades
+
+PLAYER 1 has Card: 10 of Hearts
+
+PLAYER 2 has Card: Queen of Diamonds
+
+PLAYER 3 has Card: Queen of Hearts
+
+PLAYER 4 has Card: 7 of Diamonds
+
+PLAYER 5 has Card: 1 of Hearts
+
+PLAYER 1 draws Card: 3 of Diamonds
+
+PLAYER 1 discards Card: 10 of Hearts
+
+PLAYER 2 draws Card: 10 of Diamonds
+
+PLAYER 2 discards Card: Queen of Diamonds
+
+PLAYER 3 draws Card: Jack of Clubs
+
+PLAYER 3 discards Card: Queen of Hearts
+
+PLAYER 4 draws Card: 4 of Hearts
+
+PLAYER 4 has Card: 7 of Diamonds and Card: 4 of Hearts
+Target Card: 4 of Spades
+
+PLAYER 4 has won!
+
+PLAYER 4 has returned Card: 7 of Diamonds and Card: 4 of Hearts
+
+PLAYER 6: round end
+
+PLAYER 5 has lost
+
+PLAYER 5 has returned Card: 1 of Hearts
+
+PLAYER 1 has lost
+
+PLAYER 1 has returned Card: 3 of Diamonds
+
+PLAYER 2 has lost
+
+PLAYER 2 has returned Card: 10 of Diamonds
+
+PLAYER 3 has lost
+
+PLAYER 3 has returned Card: Jack of Clubs
+
