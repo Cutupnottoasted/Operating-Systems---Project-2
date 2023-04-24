@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "Operating Systems - Project 2",
+			"path": "."
+		},
+		{
+			"name": "LOGFILERUNS",
+			"path": "../../Final - Project2/LOGFILERUNS"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cstdint": "cpp",
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"ratio": "cpp",
+			"cstdlib": "cpp"
+		}
+	}
+}
